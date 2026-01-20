@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages Test"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
